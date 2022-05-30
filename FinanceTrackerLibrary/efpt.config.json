@@ -1,0 +1,67 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "financetrackerContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "Models",
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "FinanceTrackerLibrary",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "public.depot",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.depot_stocks",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.account",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.stocks",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.transactionlog",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.bonds",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.depot_bonds",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.users",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "FT",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
