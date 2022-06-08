@@ -18,3 +18,5 @@ Wichtige Routen für das Projekt sind:
 - Ein Depots mit einer bestimmten id bekommen
 - Anlegen von neuen Depots
 - Löschen von Depots
+
+Das UI besteht aus einen Loginfenster, bei dem man sich anmelden muss. Anschließend wird eine Übersicht über die Accounts und Depots gegeben. Wenn man auf das Depot klickt kann man sehen, welche Aktien oder welche Anleihen man hat. Bei den Anleihen sieht man auch, wie lang diese noch laufen. Man kann dann dort auch neue Aktien oder Anleihen kaufen oder verkaufen. 
